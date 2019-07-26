@@ -30,12 +30,7 @@ public class DaoStudent {
 
     private String password = "studentabc";
     String hashedPassword = DButils.hashingPassword(password);
-
-
-
     
-    
-    public void dad(){}
     public void studentLogin() {
 
         Scanner sc = new Scanner(System.in);
