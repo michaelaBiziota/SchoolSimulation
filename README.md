@@ -1,6 +1,6 @@
 # SchoolSimulation
-It is a console project which utilises the mySQL database using jdbc concept created on Netbeans IDE.
-It simulates a school.There are 3 types of roles(students, trainers, headMaster).
+It is a java console project which utilises the mySQL database using jdbc concept created on Netbeans IDE. You can import the db schema that is uploaded. 
+It simulates a school.There are 3 types of roles(students, trainers, headMaster. The passwords are included) 
 
 Students can enroll to any Course under any Trainer and submit any assignments that are designated to him / her, they can see their daily Schedule per Course, the dates of submission of the Assignments per Course and submit any Assignments.
 
