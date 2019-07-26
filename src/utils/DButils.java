@@ -41,8 +41,8 @@ public class DButils {
     }
 
 //    database connection
-    private static String USERNAME = "root";
-    private static String PASS = "cheimyforever1";
+    private static String USERNAME = "user";
+    private static String PASS = "12345";
     private static String MYSQLURL = "jdbc:mysql://localhost:3306/schoolsystem?zeroDateTimeBehavior=CONVERT_TO_NULL"
             + "&useUnicode=true"
             + "                &useJDBCCompliantTimezoneShift=false"
